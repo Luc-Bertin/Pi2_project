@@ -38,7 +38,7 @@ La partie entreprise étant achevée, il va falloir maintenant que l’utilisate
 
 ## Installation du logiciel / Éléments requis
 
-Pour assurer le bon fonctionnement de l'application graphique, Python 3.0 ou ultérieur doit être installé ainsi que les libraries et packages suivants:
+Pour assurer le bon fonctionnement de l'application graphique, **Python 3.0 ou ultérieur** doit être installé ainsi que les libraries et packages suivants:
 
 * tweepy
 * json
@@ -80,6 +80,11 @@ Après téléchargement, vous devrez copier-coller le chemin-adresse du fichier 
 ## Comment utiliser le livrable ?
 
 *Le livrable se présente sous la forme d'une interface graphique qui réponds aux différents besoins de la société.*
+
+### Ouverture de l'interface
+
+L'ouverture requiert l'utilisation du terminal (sous Windows ou Mac) avec la commande suivante :
+``` python myapp2 ```
 
 
 ### Explication des composantes de l'interface
