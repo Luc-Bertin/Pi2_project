@@ -107,7 +107,7 @@ En l'absence de CSV ou d'entreprise spécifique, la recherche s'effectuera pour 
 
  * Le bouton ```Authentifiate``` peut être utilisé avant toute tentative de recherche via Twitter **pour vérifier que l’authentification de l’Application à twitter est valide et fonctionnelle** un élément **< … >** devrait s’afficher
 
- * Le bouton ```Analyse sentimentale``` prend en paramètre **requis** fichier de sortie (**sans extension**) et permet de faire une analyse sentimentale twitter pour ajouter une colonne sur la positivité de chaque tweet.
+ * Le bouton ```Analyse sentimentale``` permet d'opérer une analyse sentimentale Twitter pour ajouter une colonne sur la positivité de chaque tweet. Cela prend en paramètre **requis** le fichier de sortie (**sans extension**) ainsi qu'une grosse base de donnée d'entraînement disponible à [cette adresse](https://drive.google.com/open?id=1XU_O2Fr6GVt-apTRyjr4XKF9JlsiLw1P). Cette dernière est à télécharger et déplacer dans le dossier **'ressources'** du projet pour assurer le succès d'une telle étape.
 
 ***ASTUCE :*** Pour savoir si l'extension d'un fichier doit être requise ou optionnelle, l'interface graphique s'ouvre avec un aperçu/exemple de fichier resneignable.
 
